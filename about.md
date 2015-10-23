@@ -11,7 +11,7 @@ I am currently a final year student major in Computer Science in HKUST. My inter
 
 My favorite programming languages are C++ (for its efficiency), Python (for its wide range of support in research) and above all Ruby (for its pure elegance in OOP). I like reading books and articles about new technologies and I listen to a range of podcasts.
 
-And if you insist, a copy of my CV [here](). :)
+And if you insist, a copy of my CV [here]({{ site.url }}/assets/CV-PENGRUI.pdf). :)
 
 # A few stuff I really like to share with you:
 
