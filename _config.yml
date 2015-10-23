@@ -1,0 +1,23 @@
+# Site settings
+title: Rui Peng
+description: >
+  Enthusiatic Programmer graduated from HKUST
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://raypeng.com" # the base hostname & protocol for your site
+
+author:
+  fullname: Rui Peng
+  email: pengrui1993@gmail.com
+  github: raypeng
+  twitter: rayrpeng
+  # disqus: your_disqus_username
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Build settings
+markdown: kramdown
+
+# try out github favored markdown
+kramdown:
+  input: GFM
