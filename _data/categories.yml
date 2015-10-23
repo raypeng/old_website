@@ -1,5 +1,8 @@
 - slug: notes
   name: Notes
 
+- slug: events
+  name: Events
+
 - slug: random
   name: Random
