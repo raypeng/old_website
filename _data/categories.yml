@@ -4,5 +4,8 @@
 - slug: events
   name: Events
 
+- slug: reflections
+  name: Reflections
+
 - slug: random
   name: Random
