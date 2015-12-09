@@ -13,10 +13,10 @@ author:
   github: raypeng
   twitter: rayrpeng
   linkedin: rui-ray-peng/6a/194/a12
+  disqus: ruipeng
   # stackoverflow: 2255305
-  # disqus: your_disqus_username
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-66241777-2'
 
 # Build settings
 markdown: kramdown

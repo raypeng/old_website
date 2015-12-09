@@ -13,6 +13,8 @@ My favorite programming languages are C++ (for its efficiency), Python (for its 
 
 And if you insist, a copy of my CV [here]({{ site.url }}/assets/CV-PENGRUI.pdf). :)
 
+<br>
+
 # A few stuff I really like to share with you:
 
 [Software Engineering Radio](http://www.se-radio.net/)
