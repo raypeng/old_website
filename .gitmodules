@@ -1,3 +1,4 @@
 [submodule "coursereg"]
 	path = coursereg
 	url = https://github.com/raypeng/CourseReg.git
+	branch = master

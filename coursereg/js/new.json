@@ -1,0 +1,769 @@
+{
+  "1": {
+    "Name": "Introduction to Computing with Java", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "COMP 1002, COMP 1003 (prior to 2011-12), COMP 1004 (prior to 2013-14), COMP 1021, COMP 1022Q,  COMP 2011, ISOM 3320", 
+    "Credits": 3.0, 
+    "Abbr": "COMP1022P", 
+    "ID": 1, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "PONG, Ting Chuen", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 8, 
+              "Day": 1, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 3, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 5, 
+              "StartTime": 4
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Rm 6558, Lift 29-30 (50)"
+      }, 
+      {
+        "IsLecture": false, 
+        "Instructor": "PONG, Ting Chuen", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 19, 
+              "Day": 1, 
+              "StartTime": 15
+            }, 
+            {
+              "EndTime": 19, 
+              "Day": 3, 
+              "StartTime": 15
+            }, 
+            {
+              "EndTime": 19, 
+              "Day": 5, 
+              "StartTime": 15
+            }
+          ]
+        }, 
+        "Name": "LA1", 
+        "Location": "Rm 4221, Lift 19 (32)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "This course is designed to equip students with the fundamental concepts of programming elements and data abstraction using Java. Students will learn how to write procedural programs using variables, arrays, control statements, loops, recursion, data abstraction and objects using an integrated development environment."
+  }, 
+  "34": {
+    "Name": "Calculus IA", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "Level 3 or above in HKDSE Mathematics Extended Module M1 or M2; AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1013, MATH 1014, MATH 1018, MATH 1020, MATH 1023, MATH 1024", 
+    "Credits": 4.0, 
+    "Abbr": "MATH1012", 
+    "ID": 34, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "LAM, Tsz Kin", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 10, 
+              "Day": 1, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 1, 
+              "StartTime": 17
+            }, 
+            {
+              "EndTime": 10, 
+              "Day": 3, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 10, 
+              "Day": 5, 
+              "StartTime": 5
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Rm 3209A"
+      }, 
+      {
+        "IsLecture": false, 
+        "Instructor": "LAM, Tsz Kin", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 16, 
+              "Day": 1, 
+              "StartTime": 15
+            }, 
+            {
+              "EndTime": 16, 
+              "Day": 3, 
+              "StartTime": 15
+            }, 
+            {
+              "EndTime": 16, 
+              "Day": 5, 
+              "StartTime": 15
+            }
+          ]
+        }, 
+        "Name": "T1", 
+        "Location": "Rm 3209A"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "This is an introductory course in one-variable calculus, the first in the Calculus I and II sequence, designed for students that have not taken HKDSE Mathematics Extended Module M1 or M2. Topics include functions and their limits, continuity, derivatives and rules of differentiation, applications of derivatives, and basic integral calculus."
+  }, 
+  "35": {
+    "Name": "Calculus IB", 
+    "Prerequisites": "Level 3 or above in HKDSE Mathematics Extended Module M1/M2", 
+    "Corequisites": "", 
+    "Exclusions": "AL Pure Mathematics; AL Applied Mathematics; MATH 1003, MATH 1012, MATH 1014, MATH 1018, MATH 1020, MATH 1023, MATH 1024", 
+    "Credits": 3.0, 
+    "Abbr": "MATH1013", 
+    "ID": 35, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "LAM, Tsz Kin", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 10, 
+              "Day": 1, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 10, 
+              "Day": 3, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 10, 
+              "Day": 5, 
+              "StartTime": 5
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "TBA"
+      }, 
+      {
+        "IsLecture": false, 
+        "Instructor": "LAM, Tsz Kin", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 16, 
+              "Day": 1, 
+              "StartTime": 15
+            }, 
+            {
+              "EndTime": 16, 
+              "Day": 3, 
+              "StartTime": 15
+            }, 
+            {
+              "EndTime": 16, 
+              "Day": 5, 
+              "StartTime": 15
+            }
+          ]
+        }, 
+        "Name": "T1", 
+        "Location": "TBA"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "This is an introductory course in one-variable calculus, the first in the Calculus I and II sequence, designed for students that have taken HKDSE Mathematics Extended Module M1/M2. Topics include functions and their limits, continuity, derivatives and rules of differentiation, applications of derivatives, and basic integral calculus."
+  }, 
+  "36": {
+    "Name": "Introductory Topics in Mathematical Sciences: Introduction to SAS", 
+    "Prerequisites": "MATH 2411", 
+    "Corequisites": "", 
+    "Exclusions": "MATH 4999", 
+    "Credits": 1.0, 
+    "Abbr": "MATH1701A", 
+    "ID": 36, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "YU, Chi Wai", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 8, 
+              "Day": 1, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 2, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 3, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 4, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 5, 
+              "StartTime": 5
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Rm 2465, Lift 25-26 (122)"
+      }, 
+      {
+        "IsLecture": false, 
+        "Instructor": "YU, Chi Wai", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 13, 
+              "Day": 1, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 13, 
+              "Day": 2, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 13, 
+              "Day": 3, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 13, 
+              "Day": 4, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 13, 
+              "Day": 5, 
+              "StartTime": 12
+            }
+          ]
+        }, 
+        "Name": "LA1", 
+        "Location": "Rm 3209A"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "Students are required to have knowledge on basics of statistics before taking this course. The aim of this course is to introduce the statistical package --- SAS --- for data analysis. In certain sense, this course may be viewed as an antecedent course to MATH 4422 Data Analysis. Non-MATH(SF track) students have to seek requisite waiver to take the course."
+  }, 
+  "39": {
+    "Name": "Chinese Social Stratification in Comparative Perspective", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "SOSC 5710, SSMA 5030", 
+    "Credits": 3.0, 
+    "Abbr": "MGCS5020", 
+    "ID": 39, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "WU, Xiaogang", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 9, 
+              "Day": 1, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 2, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 3, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 3, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 4, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 5, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 5, 
+              "StartTime": 13
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Rm 1505, Lift 25-26 (61)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "This is a graduate seminar for reading and discussing scholarly works on inequality and stratification in China, with a focus on changes in the post-Mao era. The general materials on social stratification and mobility, when relevant, will also be discussed to stimulate ideas and finally lead to empirical research papers on China."
+  }, 
+  "8": {
+    "Name": "Psychology and Economics", 
+    "Prerequisites": "ECON 5130", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 2.0, 
+    "Abbr": "ECON5380", 
+    "ID": 8, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "ZHAO, Xiaojian", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 20, 
+              "Day": 1, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 20, 
+              "Day": 2, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 20, 
+              "Day": 4, 
+              "StartTime": 13
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "G007, LSK Bldg (80)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "The course introduces modern advances in behavioral economics and bounded rationality to try to answer why individuals' behaviors deviate from the standard economic theory systematically, why individuals are \" biased\", and tend to find the link of some aspects of psychological regularities. Topics include inconsistent preferences and self-control, judgment under risk and show the economic implications of those psychologically richer models."
+  }, 
+  "10": {
+    "Name": "Topics in Monetary Policy and Central Banking", 
+    "Prerequisites": "ECON 3024 OR ECON 3143 OR ECON 5140", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 2.0, 
+    "Abbr": "ECON6100R", 
+    "ID": 10, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "TBA", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 9, 
+              "Day": 3, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 17, 
+              "Day": 3, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 5, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 17, 
+              "Day": 5, 
+              "StartTime": 13
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "G007, LSK Bldg (80)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "The topics to be covered in this course including overview of tasks and responsibilities of a central bank/monetary authority; relationships of monetary policy to other forms of economic and financial stability policy; objectives of monetary policy; institutional and historical aspects of monetary policy; monetary policy transmission channels, interactions between monetary, fiscal, and exchange rate policies; tools of monetary policy; forecasting methods for inflation, output, and financial variables; international aspects of central banking and monetary policy."
+  }, 
+  "53": {
+    "Name": "Fintech for Engineers", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 3.0, 
+    "Abbr": "TEMG4000E", 
+    "ID": 53, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "GILDNER, Timothy David", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 10, 
+              "Day": 1, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 10, 
+              "Day": 3, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 12, 
+              "Day": 5, 
+              "StartTime": 5
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Rm 2463, Lift 25-26 (42)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "Fintech has become the hot buzzword in Hong Kong with Accenture, Citibank, DBS, Nest, and now Standard Chartered and Baidu creating financial technology accelerator programs in the city. The goal of this course is to deepen student\u2019s understanding of our current financial market and the potential application of future financial technologies through guest lectures, case studies and student teamwork.  We will review the financial system as it operates today and then discuss a variety of technologies such as mobile payments, block chain technology, and P2PL. The focus will be on \u201cwhy\u201d these technologies are emerging and what problems they may solve. During the class we will look at a variety of local fintech companies to provide real life examples. This is a highly interactive course, where student assessment is a combination of contribution to class discussion, case studies and presentations. For students of the Dual Degree Program in Technology and Management and other IPO students, and students with consent from the course instructor only."
+  }, 
+  "23": {
+    "Name": "Technology and Innovation: Social and Business Perspectives", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 3.0, 
+    "Abbr": "ISOM1380", 
+    "ID": 23, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "JAISINGH, Jeevan", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 9, 
+              "Day": 1, 
+              "StartTime": 3
+            }, 
+            {
+              "EndTime": 10, 
+              "Day": 3, 
+              "StartTime": 3
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 5, 
+              "StartTime": 3
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Rm 2464, Lift 25-26 (122)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "This course describes the development of technology and innovation from social and business perspectives.  It covers the technology side of innovations, how an invention can be developed into a successful commercial product, the role of innovation in society and how innovations are created from a socioeconomic perspective.  It highlights that successful development and adoption of innovative products relies not only on the technology itself but also a complex process that is subject to the impact of cultural, political, economic and managerial factors."
+  }, 
+  "24": {
+    "Name": "Critical Issues in Business Operations", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 3.0, 
+    "Abbr": "ISOM1700", 
+    "ID": 24, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "GURUMURTHI, Suri", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 9, 
+              "Day": 1, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 2, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 3, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 4, 
+              "StartTime": 4
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 5, 
+              "StartTime": 4
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Lecture Theater D (216)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "The course will focus on how business organizations should create and sustain value for different stakeholders in the society by designing, optimizing, and improving the operations. Successful businesses have demonstrated their sustainable competitiveness by maintaining a balanced view of economic prosperity, environmental stewardship, and social responsibility. This course will also examine how the changing perspectives of stakeholders (like government and consumers) affect the business decisions and operations."
+  }, 
+  "25": {
+    "Name": "Global Information Infrastructure and Policy", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 3.0, 
+    "Abbr": "ISOM2400", 
+    "ID": 25, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "XU, Yan", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 19, 
+              "Day": 1, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 2, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 3, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 4, 
+              "StartTime": 12
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 5, 
+              "StartTime": 12
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "G012, LSK Bldg (200)"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "This course provides a panorama review of the global information infrastructure from technology, policy, social and business perspectives. Key issues include next generation information infrastructure, Internet of things, anti-spamming legislation, universal service, digital convergence, network interconnection, the WTO\u2019s agreement on telecommunications, cloud computing, green ICT, and regulatory environment of multimedia services. It will also address the increasing importance of Web 2.0-enabled information infrastructure in business innovation."
+  }, 
+  "26": {
+    "Name": "Internet Applications Development", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "COMP 3021", 
+    "Credits": 4.0, 
+    "Abbr": "ISOM3320", 
+    "ID": 26, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "ZHENG, Rong", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 8, 
+              "Day": 1, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 14, 
+              "Day": 1, 
+              "StartTime": 11
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 3, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 14, 
+              "Day": 3, 
+              "StartTime": 11
+            }, 
+            {
+              "EndTime": 8, 
+              "Day": 5, 
+              "StartTime": 5
+            }, 
+            {
+              "EndTime": 14, 
+              "Day": 5, 
+              "StartTime": 11
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "G003, LSK Bldg (70)"
+      }, 
+      {
+        "IsLecture": false, 
+        "Instructor": "CHOI, Timture", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 18, 
+              "Day": 1, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 3, 
+              "StartTime": 15
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 5, 
+              "StartTime": 15
+            }
+          ]
+        }, 
+        "Name": "LA1", 
+        "Location": "G021, LSK Bldg"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "This course intends to cover Internet applications development through programming. Major topics include object-oriented development approaches, advanced GUI building blocks, networking and database connectivity and so on.  Students will learn and practice a high-level programming language for the implementation of practical Internet applications."
+  }, 
+  "28": {
+    "Name": "Enterprise Resource Management", 
+    "Prerequisites": "ISOM 2700", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 3.0, 
+    "Abbr": "ISOM4740", 
+    "ID": 28, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "LAU, Ronald", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 18, 
+              "Day": 1, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 2, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 3, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 4, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 18, 
+              "Day": 5, 
+              "StartTime": 13
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "G005, LSK Bldg"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "Basic concepts and practices of enterprise resource management; popular enterprise resource planning software packages, such as SAP R/3 for discussing and building integrated business solutions."
+  }, 
+  "42": {
+    "Name": "Responsible Leadership and Ethics", 
+    "Prerequisites": "", 
+    "Corequisites": "", 
+    "Exclusions": "", 
+    "Credits": 2.0, 
+    "Abbr": "MGMT5590", 
+    "ID": 42, 
+    "Sections": [
+      {
+        "IsLecture": true, 
+        "Instructor": "LEVERMORE, Roger John", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 9, 
+              "Day": 1, 
+              "StartTime": 3
+            }, 
+            {
+              "EndTime": 9, 
+              "Day": 4, 
+              "StartTime": 3
+            }
+          ]
+        }, 
+        "Name": "L1", 
+        "Location": "Rm 2003, LSK Bldg"
+      }, 
+      {
+        "IsLecture": true, 
+        "Instructor": "LEVERMORE, Roger John", 
+        "ParsedTime": {
+          "MeetTimes": [
+            {
+              "EndTime": 19, 
+              "Day": 1, 
+              "StartTime": 13
+            }, 
+            {
+              "EndTime": 19, 
+              "Day": 4, 
+              "StartTime": 13
+            }
+          ]
+        }, 
+        "Name": "L2", 
+        "Location": "Rm 2003, LSK Bldg"
+      }
+    ], 
+    "Matching": false, 
+    "Description": "Great leaders and corporations take greater responsibilities for its customers, employees, shareholders, and society.  This class is to learn what it takes to be a responsible leader and how leaders can create responsible corporations. This course also intends to change behavior for future leaders by teaching decision making framework for making responsible and ethical decisions as they face these challenges."
+  }
+}
