@@ -7,6 +7,8 @@ categories: [notes]
 
 Video Link: [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
+![Agile is Dead]({{ site.url }}/assets/agile-is-dead-screenshot.png)
+
 ---
 
 A simple summary:
@@ -28,8 +30,6 @@ how to do it:
 - when faced with two or more alternatives that deliver roughly the same value,
 take the path that makes future change easier.
 </pre>
-
-![agile what to do and how]({{ site.url }}/assets/agile-is-dead-agility.png)
 
 ---
 
