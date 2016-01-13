@@ -2,7 +2,7 @@
 layout:   post
 title:    "记 ThoughtWorks 入职培训"
 date:     2016-01-11
-categories: [events]
+categories: [events, thoughtworks]
 ---
 
 很久没有动笔了，这已经是2016年初。距离上一篇已过了三个月，而我现在却是又有了新的身份和角色－－我即将在毕业后加入 ThoughtWorks 公司，对就是这个我心心念念了很久的TW！关于申请和面试的细节，我打算以后再详细写。现在先来说这个发生在1.9-1.10周末的培训。
