@@ -4,7 +4,8 @@ description: >
   Enthusiatic Programmer graduated from HKUST
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://raypeng.com" # the base hostname & protocol for your site
+url: "https://raypeng.github.io" # switch back to github pages
+# url: "http://raypeng.com" # the base hostname & protocol for your site
 # url: "http://localhost:4000" # for testing locally
 
 author:
