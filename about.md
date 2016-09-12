@@ -7,7 +7,9 @@ permalink: /about/
 
 Hey guys! Greetings from Rui Peng or Ray (how my first name pronounces)!
 
-I am currently a final year student major in Computer Science in HKUST. My interests lie primarily in Software Development and Computer Vision. I am doing a final year thesis on [Video Object Detection](http://image-net.org/challenges/LSVRC/2015/#vid), which is an exciting topic not yet solved well by state-of-the-art.
+I am joining CMU for a Masters in Machine Learning. These two words always excite me! Yay! I am doing ML on big datasets and Deep Learning research. Stay tuned for my upcoming blog posts!
+
+I have graduated from HKUST with CS major. My interests lie primarily in Software Development and Computer Vision. I am doing a final year thesis on [Video Object Detection](http://image-net.org/challenges/LSVRC/2015/#vid), which is an exciting topic not yet solved well by state-of-the-art. My thesis report is available [here]({{ site.url }}/assets/fyt-thesis.pdf).
 
 My favorite programming languages are C++ (for its efficiency), Python (for its wide range of support in research) and above all Ruby (for its pure elegance in OOP). I like reading books and articles about new technologies and I listen to a range of podcasts.
 
