@@ -1,6 +1,7 @@
 ---
 layout:   post
 title:    "Settling down at CMU"
+subtitle: "Pittsburgh is awesome!"
 date:     2016-09-13
 categories: [reflections]
 ---
